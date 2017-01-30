@@ -1,3 +1,1 @@
-# hello-world
-hi,
-i am shubham saini
+Its my C project on Password Protected Personal Diary Management
